@@ -1,0 +1,28 @@
+{
+  "name": "renovate-amend-rebase",
+  "version": "1.0.0",
+  "description": "Minimal reproduction repo for RenovateBot rebasing",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/J4Numbers/renovate-amend-rebase.git"
+  },
+  "keywords": [
+    "renovatebot",
+    "renovate",
+    "rebase"
+  ],
+  "author": "Jayne Doe <j4numbers@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/J4Numbers/renovate-amend-rebase/issues"
+  },
+  "homepage": "https://github.com/J4Numbers/renovate-amend-rebase#readme",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}
