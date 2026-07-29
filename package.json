@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/J4Numbers/renovate-amend-rebase#readme",
   "dependencies": {
-    "chalk": "^5.2.0"
+    "chalk": "^6.0.0"
   }
 }
